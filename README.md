@@ -16,6 +16,7 @@ Installation
      
  3. Start the server:
    * nodemon
+
 The server will be running at http://localhost:9000.
 
 Postman Collection
