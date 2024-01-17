@@ -1,0 +1,28 @@
+|-- baxture_technology
+|   |-- controller
+|   |   |-- mainController.js
+|   |
+|   |-- db
+|   |   |-- dbConnection.js
+|   |
+|   |-- routes
+|   |   |-- mainRoute.js
+|   |
+|   |-- schema
+|   |   |-- AnalysisTaskSchema.js
+|   |   |-- FileSchema.js
+|   |
+|   |-- service
+|   |   |-- mainService.js
+|   |
+|   |-- uploads
+|   |
+|   |-- utils
+|   |   |-- analyzeFuncation.js
+|   |   |-- multerMethods.js
+| 
+|-- app.js
+|-- package-lock.json
+|-- package.json
+|-- README.md
+|-- postman_collection.json
