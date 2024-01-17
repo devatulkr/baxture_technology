@@ -21,3 +21,38 @@ The server will be running at http://localhost:9000.
 Postman Collection
 -----------------------------------
  * Explore the API using the provided Postman collection: https://api.postman.com/collections/19830577-39d06d28-44a3-47ae-afce-b2edf0efc880?access_key=PMAT-01HMB9VMCBTW4NSTQ9V552WJTK
+
+File Structure
+-----------------------------------
+
+/baxture_technology-backend
+|-- baxture_technology
+|   |-- controller
+|   |   |-- mainController.js
+|   |
+|   |-- db
+|   |   |-- dbConnection.js
+|   |
+|   |-- routes
+|   |   |-- mainRoute.js
+|   |
+|   |-- schema
+|   |   |-- AnalysisTaskSchema.js
+|   |   |-- FileSchema.js
+|   |
+|   |-- service
+|   |   |-- mainService.js
+|   |
+|   |-- uploads
+|   |
+|   |-- utils
+|   |   |-- analyzeFuncation.js
+|   |   |-- multerMethods.js
+| 
+|
+|-- app.js
+|-- package-lock.json
+|-- package.json
+|-- README.md
+|-- postman_collection.json
+
